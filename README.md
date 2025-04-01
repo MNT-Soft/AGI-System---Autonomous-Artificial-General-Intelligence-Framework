@@ -46,7 +46,7 @@ Storage: 50 GB SSD
 1. Clone Repository
 bash
 Copy
-git clone https://github.com/yourusername/agi-system.git
+git clone https://github.com/MNT-Soft/AGI-System---Autonomous-Artificial-General-Intelligence-Framework.git
 cd agi-system
 2. Install Dependencies
 Basic (CPU-only):
