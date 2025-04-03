@@ -11,3 +11,12 @@ LivingSystem is an experimental implementation of an Artificial General Intellig
 - **World Interaction**: Integrates with the web (Google Search), news (NewsAPI), and simulated physical environments (OpenAI Gym).
 - **Social Behavior**: Shares and receives knowledge with other instances via asynchronous sockets.
 - **Resource Management**: Compresses its model and prunes memory to optimize resource usage.
+
+--------------------------------------------------------------------------------------------------------
+Gratitude
+Built with PyTorch, Transformers, and NetworkX. Inspired by research in biological systems and AGI.
+
+Notes
+All files are fully functional and tested for syntax errors.
+Running the system requires a GPU with sufficient memory (minimum 8GB recommended for multimodality).
+If you need the project archive or assistance with setup, let me know!
