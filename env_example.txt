@@ -1,0 +1,17 @@
+MODEL_PATH=models/organism.pt
+LOG_FILE=logs/organism.log
+KNOWLEDGE_GRAPH_PATH=knowledge_graph.gml
+DATA_DB_PATH=data.db
+EMBEDDING_SIZE=768
+HIDDEN_SIZE=512
+META_LR=0.01
+GOOGLE_API_KEY=your_google_api_key
+OPENAI_API_KEY=your_openai_api_key
+GOOGLE_CSE_ID=your_google_cse_id
+NEWS_API_KEY=your_news_api_key
+MAX_MEMORY_USAGE=0.95
+ENABLE_CODE_EXEC=True
+DEBUG=False
+BATCH_SIZE=32
+GENETIC_POPULATION=10
+SOCIAL_PORT=5555
